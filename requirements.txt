@@ -48,7 +48,7 @@ requests==2.19.1
 reverse-geocoder==1.5.1
 scikit-image==0.14.1
 scikit-learn==0.20.0
-scipy==1.1.0
+scipy==1.10.0rc1
 SecretStorage==2.3.1
 six==1.11.0
 spidev==3.3
